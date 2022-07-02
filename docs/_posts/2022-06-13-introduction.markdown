@@ -6,6 +6,7 @@ categories: miscellaneous
 ---
 
 | Syntax      | Description |
-| House      | (https://www.sykescottages.co.uk/cottage/Moray-Aberdeenshire-The-Coastal-Trail-Belhelvie/Chance-Inn-Lodge-952068.html)      |
-| Paragraph   | Text        |
+|---          |---
+| House      | [title]     |
+| Paragraph   | [Chance Inn Lodge   ](https://www.sykescottages.co.uk/cottage/Moray-Aberdeenshire-The-Coastal-Trail-Belhelvie/Chance-Inn-Lodge-952068.html)     |
 
