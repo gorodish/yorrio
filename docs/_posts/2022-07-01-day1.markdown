@@ -6,9 +6,9 @@ categories: miscellaneous
 ---
 # Day one of the tour of Aberdeen
 
-## Useful information
+### Useful information
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| Where we're staying      | (https://www.sykescottages.co.uk/cottage/Moray-Aberdeenshire-The-Coastal-Trail-Belhelvie/Chance-Inn-Lodge-952068.html)      |
+| Where we're staying      | [Chance Inn Lodge, Balmedie](https://www.sykescottages.co.uk/cottage/Moray-Aberdeenshire-The-Coastal-Trail-Belhelvie/Chance-Inn-Lodge-952068.html)      |
 | Paragraph   | Text        |
