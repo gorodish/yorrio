@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Olive
+title: Oliver
 permalink: /oliver/
 ---
 
