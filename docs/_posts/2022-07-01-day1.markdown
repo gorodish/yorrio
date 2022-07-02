@@ -10,7 +10,9 @@ categories: miscellaneous
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| The house 3 | [Chance Inn Lodge, Balmedie](https://www.sykescottages.co.uk/cottage/Moray-Aberdeenshire-The-Coastal-Trail-Belhelvie/Chance-Inn-Lodge-952068.html)      |
+| The house 4 | [Chance Inn Lodge, Balmedie](https://www.sykescottages.co.uk/cottage/Moray-Aberdeenshire-The-Coastal-Trail-Belhelvie/Chance-Inn-Lodge-952068.html)      |
 | Paragraph   | new       |
 
 ![Glorious weather](/assets/frosty.jpg)
+
+![Email](/assets/littleEmail.png)
