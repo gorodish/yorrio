@@ -1,10 +1,14 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Jack
+permalink: /jack/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is Jack's page for documenting:
+1. What I want to achieve
+2. What I'm going to cook
+3. Activities I want to do
+4. How did my bread do?
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
