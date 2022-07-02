@@ -11,6 +11,6 @@ categories: miscellaneous
 | Syntax      | Description |
 | ----------- | ----------- |
 | Where we're staying      | [Chance Inn Lodge, Balmedie](https://www.sykescottages.co.uk/cottage/Moray-Aberdeenshire-The-Coastal-Trail-Belhelvie/Chance-Inn-Lodge-952068.html)      |
-| Paragraph   | Text        |
+| Paragraph   | new       |
 
-![Glorious weather](../assets/PXL_20220702_081727779.jpg)
+![Glorious weather](/assets/PXL_20220702_081727779.jpg)
