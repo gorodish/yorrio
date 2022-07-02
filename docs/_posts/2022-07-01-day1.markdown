@@ -4,11 +4,11 @@ title:  "Balmedie 2022 - Day 1"
 date:   2022-07-01 07:43:31 +0100
 categories: miscellaneous
 ---
-#Day one of the tour of Aberdeen
+# Day one of the tour of Aberdeen
 
-##Useful information
+## Useful information
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| House      | [Title ](https://www.sykescottages.co.uk/cottage/Moray-Aberdeenshire-The-Coastal-Trail-Belhelvie/Chance-Inn-Lodge-952068.html)      |
+| Where we're staying      | (https://www.sykescottages.co.uk/cottage/Moray-Aberdeenshire-The-Coastal-Trail-Belhelvie/Chance-Inn-Lodge-952068.html)      |
 | Paragraph   | Text        |
