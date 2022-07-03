@@ -8,7 +8,7 @@ categories: miscellaneous
 
 Useful information
 
-| Weather | [Chance Inn Lodge, Balmedie](https://www.bbc.co.uk/weather/2657832))      |
+| Weather | [BBC weather for Aberdeen](https://www.bbc.co.uk/weather/2657832))      |
 | Location   | [Balmedie](https://goo.gl/maps/5SVK9VpZab8GUPXp7)       |
 
 ### A bit better today
