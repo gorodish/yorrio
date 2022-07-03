@@ -13,7 +13,7 @@ categories: miscellaneous
 | The house 4 | [Chance Inn Lodge, Balmedie](https://www.sykescottages.co.uk/cottage/Moray-Aberdeenshire-The-Coastal-Trail-Belhelvie/Chance-Inn-Lodge-952068.html)      |
 | Paragraph   | new       |
 
-![Glorious weather](assets/frosty.jpg)
+![Glorious weather](/assets/frosty.jpg)
 
-![Football selfie day 1](./assets/PXL_20220702_204957411.jpg)
-![Football selfie day 1](../assets/PXL_20220702_204957411.jpg)
+### Football in the garden
+![Football selfie day 1](/assets/PXL_20220702_204957411.jpg)
