@@ -9,7 +9,7 @@ categories: miscellaneous
 Useful information
 
 | Weather | [BBC weather for Aberdeen](https://www.bbc.co.uk/weather/2657832)      |
-| Activity   | [Duthie Park](https://www.visitabdn.com/listing/duthie-park))      |
+| Activity   | [Duthie Park](https://www.visitabdn.com/listing/duthie-park)      |
 
  
 ### More to come
