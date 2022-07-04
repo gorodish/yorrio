@@ -8,7 +8,7 @@ categories: miscellaneous
 
 Useful information
 
-| Weather | [BBC weather for Aberdeen](https://www.bbc.co.uk/weather/2657832))      |
+| Weather | [BBC weather for Aberdeen](https://www.bbc.co.uk/weather/2657832)      |
 | Activity   | [Transition Extreme Skatepark](https://transition-extreme.com/about-our-skatepark/)      |
 
  
