@@ -4,12 +4,12 @@ title:  "Balmedie 2022 - Day 4"
 date:   2022-07-05 08:15:00 +0100
 categories: miscellaneous
 ---
-# Day three of the tour of Aberdeen
+# Day four of the tour of Aberdeen
 
 Useful information
 
-| Weather | [BBC weather for Aberdeen](https://www.bbc.co.uk/weather/2657832)      |
-| Bowling | [Lane7 bowling](https://lane7.co.uk/aberdeen/))      |
+| Weather |[BBC weather for Aberdeen](https://www.bbc.co.uk/weather/2657832) |
+| Bowling |[Lane7 bowling](https://lane7.co.uk/aberdeen/)) |
 
 
 ### Prospects for today
