@@ -8,8 +8,8 @@ categories: miscellaneous
 
 Useful information
 
-| Weather |[BBC weather for Aberdeen](https://www.bbc.co.uk/weather/2657832) |
-| Bowling |[Lane7 bowling](https://lane7.co.uk/aberdeen/)) |
+| Weather | [BBC weather for Aberdeen](https://www.bbc.co.uk/weather/2657832) |
+| Bowling | [Lane7 bowling](https://lane7.co.uk/aberdeen/) |
 
 
 ### Prospects for today
