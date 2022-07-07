@@ -11,14 +11,9 @@ Useful information
 | Weather | [BBC weather for Aberdeen](https://www.bbc.co.uk/weather/2657832) |
 | nothing yet |  |
 
-
-### Today 
-
-
-
 ### Weather!  
 
-Good enought ot eat out...if you're awake!
+Good enough to eat out...if you're awake!
 
 ![Breakfast outside.](/assets/PXL_20220707_100826064-01.jpg)
 
@@ -26,4 +21,9 @@ And good prospects for the day.
 
 ![Blue sky.](/assets/PXL_20220707_100759920-01.jpg)
 
+### Balmedie beach
+
+Washed up.
+
+![Blue sky.](/assets/PXL_20220707_141901303-01.jpg)
 
