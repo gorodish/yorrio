@@ -4,7 +4,7 @@ title:  "Balmedie 2022 - Day 7"
 date:   2022-07-08 08:15:00 +0100
 categories: miscellaneous
 ---
-# Day Sseven of the tour of Aberdeen
+# Day Seven of the tour of Aberdeen
 
 Useful information
 
