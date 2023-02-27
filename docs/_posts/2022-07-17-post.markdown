@@ -7,3 +7,4 @@ categories: miscellaneous
 # A blog post
 
 Useful information
+![My helpful screenshot](/assets/Epson_15022023143449.jpg)
