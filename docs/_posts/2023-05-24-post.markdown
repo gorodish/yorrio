@@ -6,5 +6,5 @@ categories: miscellaneous
 ---
 # A beach blog post
 
-Useful information
+Here is a beach
 ![A beach in Scotland](/assets/PXL_20230121_152316326.jpg)
