@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Why is this here? Just testing out whether I can write things that I find interesting enough to read.
+### Why is this here? Just testing out whether I can write things that I find interesting enough to read.
 
 Here are a few ideas about what I might come up with.
 
