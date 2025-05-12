@@ -7,4 +7,4 @@ categories: miscellaneous
 # A blog post
 
 Useful information
-![My helpful screenshot](/assets/PXL_20250502_171453681.jpg)
+![A nice field of oilseed rape](/assets/PXL_20250502_171453681.jpg)
