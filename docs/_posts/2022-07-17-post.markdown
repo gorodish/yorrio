@@ -4,7 +4,7 @@ title:  "Potential blog post"
 date:   2022-07-17 10:38:00 +0100
 categories: miscellaneous
 ---
-# A blog post
+# A new blog post
 
 Useful information
 ![A nice field of oilseed rape](/assets/PXL_20250502_171453681.jpg)
