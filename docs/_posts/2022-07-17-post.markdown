@@ -1,10 +1,18 @@
 ---
 layout: post
-title:  "Potential blog post"
-date:   2022-07-17 10:38:00 +0100
+title:  "You only get it briefly"
+date:   2025-12-30 13:06:00
 categories: miscellaneous
 ---
-# A new blog post
+# Introduction
+Taken on a cold and sunny morning. An old brick farm building now converted into offices.
+
+# Story
+I passed a guy waklking in the opposite direction from me on the pavement on the way to taking some pictures. He was walking with a stick and one of his legs was at what I would describe as a jaunty angle. No doubt due to some leg-related issues he was walking slowly and carefully, as I would in that situation.
+
+It made me think of the [Class sketch](https://en.wikipedia.org/wiki/Class_sketch) where John Cleese looks down on Ronnie Barker etc. The whole idea is to point out how the class system controls the minds of the people within it to dictate how they behave with each other. But it also suggests that we find it hard to see beyond social structures and appreciate life's struggles at a more dispassionate level so that we can see these things are just imposede and not reality.
+
+Is it maybe the same thing when I walk about without a stick, when I look in one direction I can see some kids running around wild and in the other I see our guy making a much bigger effort to move along? 
 
 Useful information
-![A nice field of oilseed rape](/assets/PXL_20250502_171453681.jpg)
+![Brick outbuildings](docs/assets/PXL_20251230_121029507~2.jpg)
